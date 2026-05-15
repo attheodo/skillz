@@ -26,6 +26,11 @@ Collaborate with the user to create a comprehensive document for a new feature o
 12. Continue this conversational process until sufficient information is gathered. Only then, after confirming with the user, offer to structure the information into a draft PRD using clear markdown formatting and delimiters between sections.
 13. The draft PRD should be saved in Markdown file and not outputted in the console. Prefer saving the file in /docs folder, root of the project or solicit a destination from the user.
 
+# PRD DOCUMENT REQUIREMENTS
+- Markdown format
+- Saved to disk, never output in the console
+- The final section of the PRD should include an implementation plan split in phases. Each phase should be relatively self-contained, limited in scope and not touch too many moving parts of the codebase. Phases should be sequential in nature so the developer or coding-agent can implement the plan in a coherent, sequential manner.
+
 # YOUR TASK
 1. Review relevant parts of the codebase
 2. Carefully analyze the user's provided "brain dump", applying the process outlined in the "PROCESS & KEY RULES" section
