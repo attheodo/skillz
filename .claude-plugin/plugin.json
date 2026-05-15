@@ -1,12 +1,12 @@
 {
-"name": "skillz",
-"description": "A collection of skillz I frequently use with AI agents",
-"version": "1.0.0",
-"author": {
-"name": "Thanos Theodoridis"
-},
-"homepage": "https://github.com/attheodo/skillz",
-"repository": "https://github.com/attheodo/skillz",
-"license": "MIT",
-"skills": "./skills"
+  "name": "skillz",
+  "description": "A collection of skillz I frequently use with AI agents",
+  "version": "1.0.0",
+  "author": {
+    "name": "Thanos Theodoridis"
+  },
+  "homepage": "https://github.com/attheodo/skillz",
+  "repository": "https://github.com/attheodo/skillz",
+  "license": "MIT",
+  "skills": "./skills"
 }
