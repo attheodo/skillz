@@ -1,0 +1,19 @@
+{
+  "name": "skilzz",
+  "owner": {
+    "name": "Thanos Theodoridis",
+    "url": "https://attheo.do"
+  },
+  "metadata": {
+    "description": "A collection of skillz that I have created to aid my agent-based SDLC",
+    "version": "1.0.0",
+    "repository": "https://github.com/attheodo/skillz"
+  },
+  "plugins": [
+    {
+      "name": "skillz",
+      "description": "A collection of skillz I frequently use with AI agents",
+      "source": "./"
+    }
+  ]
+}
